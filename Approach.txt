@@ -1,0 +1,8 @@
+-Chosen network architecture : 
+	-I chose to use U-Net architecture based on the paper "U-Net: Convolutional Networks for Biomedical Image Segmentation" by Olaf Ronneberger, Philipp Fischer, Thomas Brox
+	-reason : it is a commonly used and efficient architecture for semantic segmentation tasks
+
+-Data set and augmentation : 
+	-the offered dataset was relatively small. It could engender bad generalization. 
+	-To minimize the risks of bad generalization, I used data augmentation to expand the dataset
+	

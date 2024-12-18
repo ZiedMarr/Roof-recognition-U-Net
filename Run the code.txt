@@ -1,0 +1,2 @@
+- Main.py should be run
+- make sure to have the necessary packages (you can recreate the conda environment using the file environment.yml)
